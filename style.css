@@ -1,8 +1,15 @@
 body{
 	background-color: #ede3e3;
 }
+.container{
+	width:800px;
+	margin: 0px auto;
+	}
+
 ul li{
 	display: inline-block;
+	margin-left: -40px;
+	padding-right: 50px;
 }
 
 ul li a:hover{
