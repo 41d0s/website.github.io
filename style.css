@@ -1,0 +1,25 @@
+body{
+	background-color: #ede3e3;
+}
+ul li{
+	display: inline-block;
+}
+
+ul li a:hover{
+	color: red;
+}
+.penulis a:hover {
+	color: red;
+}
+h1 .judul{
+	padding: 0px 50%;
+}
+.gambar{
+
+	height:300px;
+	background-image: url(logo.jpg);
+	border-top: 5px solid salmon;
+	border-bottom: 5px solid orange;
+	background-size: cover;
+	background-position: 10px;
+}
